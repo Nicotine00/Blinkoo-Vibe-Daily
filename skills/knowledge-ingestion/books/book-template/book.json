@@ -1,0 +1,10 @@
+{
+  "title": "书名",
+  "created": "YYYY-MM-DD",
+  "updated": "YYYY-MM-DD",
+  "totalFragments": 0,
+  "totalChapters": 0,
+  "completeness": 0,
+  "chapters": [],
+  "alertLevel": "none"
+}
