@@ -106,6 +106,28 @@
 
 ---
 
+### ✅ skills/evidence-protocol — 任务证据协议
+
+约束 Agent 从接任务开始就按证据做事：先拆需求、判断属性、规划验收方式，执行中不拿推测冒充事实，交付时每个“完成/通过/正确”都必须有匹配证据。Agent 无法验证的部分必须明确交给用户确认。
+
+**适合**
+
+- Codex / Claude Code / Cursor 等 Agent 开发任务
+- 数据查询、文件修改、GitHub 同步、UI 调整、功能验收
+- 经常遇到 Agent “看代码就说修好了”“没看画面就说位置对了”的场景
+
+**核心规则**
+
+```
+需求 → 拆成属性 → 为每个属性指定证据 → 执行 → 按证据验收
+```
+
+无法回答“你凭什么说完成了”，就不能宣布完成。
+
+→ [SKILL.md](skills/evidence-protocol/SKILL.md) · [README](skills/evidence-protocol/README.md)
+
+---
+
 ## 目录结构
 
 ```
@@ -115,7 +137,8 @@ Blinkoo-Vibe-Daily/
 └── skills/
     ├── juicer/                  # 榨知机：对话素材榨取（SKILL.md + README + LICENSE）
     ├── wechat-title/            # 公众号爆款标题生成（SKILL.md + README + LICENSE + references/）
-    └── 瞭望台/                   # 跨 AI 会话项目互通（SKILL.md + README + LICENSE + assets/）
+    ├── 瞭望台/                   # 跨 AI 会话项目互通（SKILL.md + README + LICENSE + assets/）
+    └── evidence-protocol/          # 任务证据协议（SKILL.md + README + LICENSE）
 ```
 
 ## 关于作者
