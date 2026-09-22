@@ -106,25 +106,25 @@
 
 ---
 
-### ✅ skills/evidence-protocol — 任务证据协议
+### 🧭 skills/克制skill — 让 Agent 只说证据能证明的话
 
-约束 Agent 从接任务开始就按证据做事：先拆需求、判断属性、规划验收方式，执行中不拿推测冒充事实，交付时每个“完成/通过/正确”都必须有匹配证据。Agent 无法验证的部分必须明确交给用户确认。
+克制不是语气保守。这个 Skill 从接任务时就先拆需求、规划验收方式，复杂任务开工前先把“任务理解 + 验收计划”给用户看。执行时边做边留证，交付时逐项对回最初要求。没看画面就不能说视觉正确，没跑功能就不能说功能正常，没查来源就不能确认数据。
 
 **适合**
 
 - Codex / Claude Code / Cursor 等 Agent 开发任务
 - 数据查询、文件修改、GitHub 同步、UI 调整、功能验收
-- 经常遇到 Agent “看代码就说修好了”“没看画面就说位置对了”的场景
+- 想阻止 Agent “猜完成”或只用谨慎措辞表演克制的场景
 
 **核心规则**
 
 ```
-需求 → 拆成属性 → 为每个属性指定证据 → 执行 → 按证据验收
+需求 → 拆成属性 → 开工前规划证据 → 执行并留证 → 逐项验收
 ```
 
-无法回答“你凭什么说完成了”，就不能宣布完成。
+任何“完成 / 通过 / 正确 / 已确认”，都要回答：实际验证了什么，结果是什么，这份证据能证明到哪一步。
 
-→ [SKILL.md](skills/evidence-protocol/SKILL.md) · [README](skills/evidence-protocol/README.md)
+→ [SKILL.md](skills/克制skill/SKILL.md) · [README](skills/克制skill/README.md)
 
 ---
 
@@ -138,7 +138,7 @@ Blinkoo-Vibe-Daily/
     ├── juicer/                  # 榨知机：对话素材榨取（SKILL.md + README + LICENSE）
     ├── wechat-title/            # 公众号爆款标题生成（SKILL.md + README + LICENSE + references/）
     ├── 瞭望台/                   # 跨 AI 会话项目互通（SKILL.md + README + LICENSE + assets/）
-    └── evidence-protocol/          # 任务证据协议（SKILL.md + README + LICENSE）
+    └── 克制skill/                  # 证据化任务约束（SKILL.md + README + LICENSE）
 ```
 
 ## 关于作者
