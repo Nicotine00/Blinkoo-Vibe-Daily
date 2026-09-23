@@ -1,22 +1,12 @@
-# 克制 Skill
+<p align="center">
+  <img src="./assets/readme-banner.svg" alt="克制 Skill" width="100%" />
+</p>
 
-让 Agent 少猜一步，多拿一步证据。
-
-克制不是语气变保守，也不是每次都说“建议你再测试一下”。
-
-它要求 Agent 从接任务时就先想清楚：
-
-用户到底要求了几件事？
-每一条要求来自哪里？
-有没有自己偷偷补出的数字、阈值、时间或业务规则？
-每件事属于什么属性？
-什么证据才有资格证明它？
-哪些东西自己能验？
-哪些东西必须交给用户验？
-
-复杂任务开工前，Agent 会先给出一个简短的“任务理解 + 验收计划”。用户可以在它写代码之前先确认理解有没有偏。
-
-执行过程中，Agent 必须边做边验证。交付时再把每一项结果对回最初的要求，并说明实际做了什么验证、看到了什么、这些证据能证明什么、还不能证明什么。
+<p align="center">
+  <img alt="Evidence First" src="https://img.shields.io/badge/Evidence%20First-0B3C73?style=flat-square&labelColor=0B3C73&color=0B3C73" />
+  <img alt="Assumption Guard" src="https://img.shields.io/badge/Assumption%20Guard-98E4FA?style=flat-square&labelColor=98E4FA&color=98E4FA" />
+  <img alt="Verification" src="https://img.shields.io/badge/Verification-FFD66B?style=flat-square&labelColor=FFD66B&color=FFD66B" />
+</p>
 
 ## 它主要防什么
 
