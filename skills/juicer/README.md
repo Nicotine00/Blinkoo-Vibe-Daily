@@ -2,11 +2,6 @@
   <img src="./assets/readme-banner.svg" alt="Juicer 榨知机" width="100%" />
 </p>
 
-<p align="center">
-  <img alt="Knowledge Capture" src="https://img.shields.io/badge/Knowledge%20Capture-0B3C73?style=flat-square&labelColor=0B3C73&color=0B3C73" />
-  <img alt="Insight Archive" src="https://img.shields.io/badge/Insight%20Archive-98E4FA?style=flat-square&labelColor=98E4FA&color=98E4FA" />
-  <img alt="Deduplicate" src="https://img.shields.io/badge/Deduplicate-FFD66B?style=flat-square&labelColor=FFD66B&color=FFD66B" />
-</p>
 
 ## 这是什么
 
