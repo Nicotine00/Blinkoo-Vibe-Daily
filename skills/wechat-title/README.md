@@ -1,10 +1,12 @@
-# 🎯 wechat-title · 公众号爆款标题生成
+<p align="center">
+  <img src="./assets/readme-banner.svg" alt="微信标题 Skill" width="100%" />
+</p>
 
-#### 22 个「篇篇10W+」头部账号的标题方法论，封装成一个可复用的 AI Skill
-
-[Agent Skills](https://agentskills.io/) 开放标准 · 适配 Claude Code / Codex / OpenCode 等 40+ Agent
-
----
+<p align="center">
+  <img alt="500+ Samples" src="https://img.shields.io/badge/500%2B%20Samples-0B3C73?style=flat-square&labelColor=0B3C73&color=0B3C73" />
+  <img alt="7 Domains" src="https://img.shields.io/badge/7%20Domains-98E4FA?style=flat-square&labelColor=98E4FA&color=98E4FA" />
+  <img alt="Pattern Library" src="https://img.shields.io/badge/Pattern%20Library-FFD66B?style=flat-square&labelColor=FFD66B&color=FFD66B" />
+</p>
 
 ## 这是什么
 
