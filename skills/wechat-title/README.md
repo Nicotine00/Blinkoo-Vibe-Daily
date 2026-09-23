@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="./assets/readme-banner.svg" alt="微信标题 Skill" width="100%" />
-</p>
+<div align="center">
 
+<sub>BLINKOO · AGENT SKILLS · OPEN SOURCE</sub>
+
+# 微信标题 Skill
+
+**从真实高表现标题中提炼可复用的标题方法。**
+
+`500+ SAMPLES` · `7 DOMAINS` · `PATTERN LIBRARY` · `A/B TITLES` · `SELF CHECK`
+
+</div>
+
+---
 
 ## 这是什么
 
