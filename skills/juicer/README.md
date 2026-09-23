@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="./assets/readme-banner.svg" alt="Juicer 榨知机" width="100%" />
-</p>
+<div align="center">
 
+<sub>BLINKOO · AGENT SKILLS · OPEN SOURCE</sub>
+
+# Juicer · 榨知机
+
+**把对话里的判断、洞察和决策，沉淀成长期知识资产。**
+
+`KNOWLEDGE CAPTURE` · `INSIGHT ARCHIVE` · `DEDUPLICATION` · `TOPIC INDEX` · `LONG-TERM ASSETS`
+
+</div>
+
+---
 
 ## 这是什么
 
