@@ -2,11 +2,6 @@
   <img src="./assets/readme-banner.svg" alt="瞭望台 Skill" width="100%" />
 </p>
 
-<p align="center">
-  <img alt="Multi Project" src="https://img.shields.io/badge/Multi%20Project-0B3C73?style=flat-square&labelColor=0B3C73&color=0B3C73" />
-  <img alt="Status Sync" src="https://img.shields.io/badge/Status%20Sync-98E4FA?style=flat-square&labelColor=98E4FA&color=98E4FA" />
-  <img alt="Dependency Map" src="https://img.shields.io/badge/Dependency%20Map-FFD66B?style=flat-square&labelColor=FFD66B&color=FFD66B" />
-</p>
 
 ## 它解决什么
 
