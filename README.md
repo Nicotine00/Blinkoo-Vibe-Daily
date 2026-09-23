@@ -106,7 +106,7 @@
 
 ---
 
-### 🧭 skills/克制skill — 让 Agent 只说证据能证明的话
+### 🧭 skills/restraint-skill — 让 Agent 只说证据能证明的话
 
 克制不是语气保守。这个 Skill 从接任务时就先逐项覆盖用户原始要求、识别规则空白和隐含假设，再规划验收方式。复杂任务开工前先把“任务理解 + 验收计划”给用户看。执行时边做边留证，交付时逐项对回最初要求。没看画面就不能说视觉正确，没跑功能就不能说功能正常，没查来源就不能确认数据，用户没定义的奖励数值、时间阈值、权限和业务规则也不能自己猜。
 
@@ -124,7 +124,7 @@
 
 任何“完成 / 通过 / 正确 / 已确认”，都要回答：实际验证了什么，结果是什么，这份证据能证明到哪一步。
 
-→ [SKILL.md](skills/克制skill/SKILL.md) · [README](skills/克制skill/README.md)
+→ [SKILL.md](skills/restraint-skill/SKILL.md) · [README](skills/restraint-skill/README.md)
 
 ---
 
@@ -138,7 +138,7 @@ Blinkoo-Vibe-Daily/
     ├── juicer/                  # 榨知机：对话素材榨取（SKILL.md + README + LICENSE）
     ├── wechat-title/            # 公众号爆款标题生成（SKILL.md + README + LICENSE + references/）
     ├── 瞭望台/                   # 跨 AI 会话项目互通（SKILL.md + README + LICENSE + assets/）
-    └── 克制skill/                  # 证据化任务约束（SKILL.md + README + LICENSE）
+    └── restraint-skill/                  # 证据化任务约束（SKILL.md + README + LICENSE）
 ```
 
 ## 关于作者
