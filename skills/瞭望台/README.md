@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="./assets/readme-banner.svg" alt="瞭望台 Skill" width="100%" />
-</p>
+<div align="center">
 
+<sub>BLINKOO · AGENT SKILLS · OPEN SOURCE</sub>
+
+# 瞭望台 · Project Watchtower
+
+**让多个项目互相看见进度、依赖和供给关系。**
+
+`MULTI PROJECT` · `STATUS SYNC` · `DEPENDENCY MAP` · `CROSS PROJECT` · `PROGRESS VIEW`
+
+</div>
+
+---
 
 ## 它解决什么
 
