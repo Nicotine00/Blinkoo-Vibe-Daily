@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FDFF"/>
+      <stop offset="55%" stop-color="#EAF9FE"/>
+      <stop offset="100%" stop-color="#DDF5FC"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#98E4FA" stroke-width="1" opacity=".16"/>
+    </pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <circle cx="1100" cy="55" r="90" fill="#98E4FA" opacity=".15" filter="url(#soft)"/>
+  <circle cx="70" cy="360" r="100" fill="#FFD66B" opacity=".13" filter="url(#soft)"/>
+
+  <text x="350" y="52" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#2D6E98" letter-spacing="2">BLINKOO  /  AGENT SKILLS  /  OPEN SOURCE SKILL</text>
+
+  <g transform="translate(42,52)">
+    <ellipse cx="130" cy="275" rx="118" ry="30" fill="#98E4FA" opacity=".25"/>
+    <path d="M78 205 C92 176,171 176,190 206 L206 302 L57 302 Z" fill="#123E69"/>
+    <path d="M92 213 C107 226,159 226,174 213 L184 302 L78 302 Z" fill="#184B78"/>
+    <circle cx="132" cy="126" r="69" fill="#FFD2B8" stroke="#0B3C73" stroke-width="4"/>
+
+    <g fill="#F28C48" stroke="#D66E2A" stroke-width="2">
+      <circle cx="83" cy="74" r="28"/><circle cx="104" cy="58" r="31"/><circle cx="126" cy="67" r="27"/>
+      <circle cx="76" cy="101" r="26"/><circle cx="103" cy="91" r="29"/>
+    </g>
+    <g fill="#0B4C7C" stroke="#07355B" stroke-width="2">
+      <circle cx="143" cy="60" r="31"/><circle cx="170" cy="72" r="29"/><circle cx="188" cy="96" r="26"/>
+      <circle cx="152" cy="90" r="31"/><circle cx="181" cy="116" r="24"/>
+    </g>
+
+    <rect x="103" y="124" width="13" height="25" rx="5" fill="#0B3C73"/>
+    <rect x="151" y="124" width="13" height="25" rx="5" fill="#0B3C73"/>
+    <path d="M124 163 Q134 171 145 163" fill="none" stroke="#B65243" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="93" cy="158" r="8" fill="#F3A69A" opacity=".5"/>
+    <circle cx="176" cy="158" r="8" fill="#F3A69A" opacity=".5"/>
+
+    <path d="M177 220 Q224 190 267 160" fill="none" stroke="#123E69" stroke-width="24" stroke-linecap="round"/>
+    <circle cx="267" cy="160" r="15" fill="#FFD2B8" stroke="#0B3C73" stroke-width="3"/>
+    <path d="M272 158 L318 139" stroke="#0B3C73" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="317" cy="139" r="6" fill="#FFD2B8" stroke="#0B3C73" stroke-width="2"/>
+
+    <path d="M82 224 Q52 243 48 271" fill="none" stroke="#123E69" stroke-width="22" stroke-linecap="round"/>
+    <rect x="38" y="269" width="94" height="62" rx="8" fill="#F8FBFC" stroke="#2D6E98" stroke-width="3" transform="rotate(-6 38 269)"/>
+    <text x="55" y="303" font-size="16" font-family="Arial, sans-serif" font-weight="700" fill="#2D6E98">Blinkoo</text>
+  </g>
+
+  <rect x="340" y="82" width="760" height="5" rx="3" fill="#98E4FA"/>
+  <text x="350" y="158" font-size="64" font-family="'Noto Sans SC','Microsoft YaHei',Arial,sans-serif" font-weight="800" fill="#0B2F5B">Juicer 榨知机</text>
+  <text x="350" y="213" font-size="27" font-family="'Noto Sans SC','Microsoft YaHei',Arial,sans-serif" fill="#184B78">把对话里的判断、洞察和决策，沉淀成长期知识资产。</text>
+
+  <g transform="translate(350,242)">
+    <rect width="94" height="32" rx="16" fill="#0B3C73"/>
+    <text x="47" y="21" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" font-weight="700" fill="#FFFFFF">AGENT SKILL</text>
+    <rect x="106" width="112" height="32" rx="16" fill="#98E4FA"/>
+    <text x="162" y="21" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">BLINKOO STYLE</text>
+    <rect x="230" width="104" height="32" rx="16" fill="#FFD66B"/>
+    <text x="282" y="21" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">REUSABLE</text>
+  </g>
+
+  <g transform="translate(350,300)">
+      <rect width="145" height="38" rx="19" fill="#E3F7FD" stroke="#B9DDEA"/>
+      <circle cx="20" cy="19" r="6" fill="#0B4C7C"/>
+      <text x="34" y="24" font-size="14" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">Knowledge Capture</text>
+    </g>
+<g transform="translate(510,300)">
+      <rect width="145" height="38" rx="19" fill="#FFF1C7" stroke="#B9DDEA"/>
+      <circle cx="20" cy="19" r="6" fill="#F0A23B"/>
+      <text x="34" y="24" font-size="14" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">Insight Archive</text>
+    </g>
+<g transform="translate(670,300)">
+      <rect width="145" height="38" rx="19" fill="#E3F7FD" stroke="#B9DDEA"/>
+      <circle cx="20" cy="19" r="6" fill="#0B4C7C"/>
+      <text x="34" y="24" font-size="14" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">Deduplicate</text>
+    </g>
+<g transform="translate(830,300)">
+      <rect width="145" height="38" rx="19" fill="#FFF1C7" stroke="#B9DDEA"/>
+      <circle cx="20" cy="19" r="6" fill="#F0A23B"/>
+      <text x="34" y="24" font-size="14" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">Topic Index</text>
+    </g>
+<g transform="translate(990,300)">
+      <rect width="145" height="38" rx="19" fill="#E3F7FD" stroke="#B9DDEA"/>
+      <circle cx="20" cy="19" r="6" fill="#0B4C7C"/>
+      <text x="34" y="24" font-size="14" font-family="Arial, sans-serif" font-weight="700" fill="#0B3C73">Long-term Assets</text>
+    </g>
+
+  <line x1="350" y1="368" x2="1145" y2="368" stroke="#B9DDEA"/>
+  <text x="350" y="397" font-size="15" font-family="Arial, sans-serif" fill="#477999">Open specification · Markdown first · Human readable · Built for long-term reuse</text>
+</svg>
