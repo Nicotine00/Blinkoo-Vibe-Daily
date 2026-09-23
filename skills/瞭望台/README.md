@@ -1,7 +1,12 @@
-# 瞭望台（Project Watchtower）
+<p align="center">
+  <img src="./assets/readme-banner.svg" alt="瞭望台 Skill" width="100%" />
+</p>
 
-> 跨项目互通 skill：先登记项目清单，自动生成状态仓库与互通矩阵，让项目按规格、数据、情报三种方式互相供给。
-> 兼容 opencode / Claude Code / WorkBuddy 等任何认 markdown 与全局指令的 AI 客户端。
+<p align="center">
+  <img alt="Multi Project" src="https://img.shields.io/badge/Multi%20Project-0B3C73?style=flat-square&labelColor=0B3C73&color=0B3C73" />
+  <img alt="Status Sync" src="https://img.shields.io/badge/Status%20Sync-98E4FA?style=flat-square&labelColor=98E4FA&color=98E4FA" />
+  <img alt="Dependency Map" src="https://img.shields.io/badge/Dependency%20Map-FFD66B?style=flat-square&labelColor=FFD66B&color=FFD66B" />
+</p>
 
 ## 它解决什么
 
