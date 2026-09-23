@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="./assets/readme-banner.svg" alt="克制 Skill" width="100%" />
-</p>
+<div align="center">
 
+<sub>BLINKOO · AGENT SKILLS · OPEN SOURCE</sub>
+
+# 克制 Skill
+
+**Agent 只能说到证据能够证明的位置。**
+
+`REQUIREMENT COVERAGE` · `ASSUMPTION GUARD` · `EVIDENCE BOUNDARY` · `VERIFICATION` · `USER ACCEPTANCE`
+
+</div>
+
+---
 
 ## 它主要防什么
 
